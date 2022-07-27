@@ -1,0 +1,1 @@
+{"version":3,"file":"Nave.d.ts","sourceRoot":"","sources":["../../../../src/webparts/nave/components/Nave.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,OAAO,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AA0I1C,MAAM,CAAC,OAAO,OAAO,eAAgB,SAAQ,KAAK,CAAC,SAAS,CAAC,UAAU,EAAE,EAAE,CAAC;IAEnE,MAAM,IAAI,KAAK,CAAC,YAAY,CAAC,UAAU,CAAC;CAWhD"}

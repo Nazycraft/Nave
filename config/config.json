@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "nave-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/nave/NaveWebPart.js",
+          "manifest": "./src/webparts/nave/NaveWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "NaveWebPartStrings": "lib/webparts/nave/loc/{locale}.js"
+  }
+}
